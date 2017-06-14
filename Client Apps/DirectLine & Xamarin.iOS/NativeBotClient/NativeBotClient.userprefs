@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="NativeBotClient/ViewController.cs">
     <Files>
       <File FileName="NativeBotClient/AppDelegate.cs" Line="22" Column="40" />
-      <File FileName="NativeBotClient/ViewController.cs" Line="193" Column="7" />
+      <File FileName="NativeBotClient/ViewController.cs" Line="31" Column="60" />
       <File FileName="NativeBotClient/Main.cs" Line="16" Column="1" />
     </Files>
     <Pads>

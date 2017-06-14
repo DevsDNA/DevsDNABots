@@ -28,7 +28,7 @@
         List<Message> _messages = new List<Message>();
         List<string> _activitiesPrinted = new List<string>();
 
-        string directLineSecret = "2dqJSatIlAY.cwA.v6E.5Git6FP_atwyBDZHH0Xam-ysJZGeyJ590VS41w1KGHQ";
+        string directLineSecret = "[YOUR DIRECT LINE SECRET]";
         string botId = "devsdna-web";
 
 		User sender = new User { Id = "2CC8343", DisplayName = "You" };
