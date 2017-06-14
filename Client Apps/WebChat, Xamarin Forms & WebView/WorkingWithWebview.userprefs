@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{50332781-3CB0-48F5-94C8-C5B6E7F6EBB4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithWebview/WebPage.cs">
+    <Files>
+      <File FileName="WorkingWithWebview/App.cs" Line="9" Column="37" />
+      <File FileName="WorkingWithWebview/WebPage.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithWebview.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.410F70C7-7EBF-4C77-88E8-554712EA1CBA" />
+  <MultiItemStartupConfigurations />
+</Properties>

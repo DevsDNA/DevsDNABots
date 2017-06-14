@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.NativeBotClient PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.410F70C7-7EBF-4C77-88E8-554712EA1CBA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NativeBotClient/ViewController.cs">
+    <Files>
+      <File FileName="NativeBotClient/AppDelegate.cs" Line="22" Column="40" />
+      <File FileName="NativeBotClient/ViewController.cs" Line="193" Column="7" />
+      <File FileName="NativeBotClient/Main.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NativeBotClient" expanded="True">
+            <Node name="NativeBotClient" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

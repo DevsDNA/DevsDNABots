@@ -1,0 +1,39 @@
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Bot Application.dll.config
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Bot Application.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Bot Application.pdb
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Autofac.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Chronic.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Builder.Autofac.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Web.Http.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Autofac.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Builder.Autofac.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Web.Http.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\cs\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\obj\Release\Bot Application.dll
+\\Mac\Home\Documents\DevsDNA\DevsDNABot\DevsDNABot\obj\Release\Bot Application.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeBotClient", "NativeBotClient\NativeBotClient.csproj", "{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Release|iPhone.Build.0 = Release|iPhone
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{78D8297D-2AAA-4B47-A246-44B68EE6DA2F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
